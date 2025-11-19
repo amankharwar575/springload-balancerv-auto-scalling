@@ -119,12 +119,7 @@ Custom load balancing
 
 Dynamic backend pool
 
-📤 Deploy & Push to GitHub
 
-After committing:
-
-git remote set-url origin https://github.com/amankharwar575/springload-balancerv-auto-scalling.git
-git push -u origin main
 
 📜 License
 
